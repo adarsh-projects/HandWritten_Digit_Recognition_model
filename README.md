@@ -1,4 +1,4 @@
-# HandWritten_Digit_Recognition_model
+# HandWritten_Mathematics_Character_Detection_model
 
  Link to donwload dataset
  https://www.kaggle.com/scolianni/mnistasjpg
